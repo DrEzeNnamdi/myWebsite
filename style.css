@@ -1,0 +1,43 @@
+#hero{
+    margin: 20px;
+    width: max-content;
+}
+.navbar-class{
+    display: inline-flex;
+    flex-direction: row;
+    gap: 30px;
+    position: absolute;
+    
+    
+    
+    
+}
+.aboutme{
+    margin: 50px;
+}
+.mainbody{
+    background-image:none
+}
+
+.botn{
+    background-color: cornflowerblue;
+    color: aliceblue;
+    border-radius: 10px;
+    font-display: 10px;
+    object-fit: fill;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    flex-basis: 200px;
+    justify-content: space-evenly;
+    font-size: large;
+    
+    
+}
+.img1{
+    width: 100px;
+
+    border-radius: 100%;
+}
